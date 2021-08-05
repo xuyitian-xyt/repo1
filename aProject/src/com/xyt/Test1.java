@@ -7,6 +7,7 @@ public class Test1 {
 		System.out.println("xyt");
 		System.out.println("zhx");
 		System.out.println("xxt");
+		System.out.println("xzh");
 	}
 
 }
