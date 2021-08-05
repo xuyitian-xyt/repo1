@@ -8,6 +8,7 @@ public class Test1 {
 		System.out.println("zhx");
 		System.out.println("xxt");
 		System.out.println("xzh");
+		System.out.println("xbh");
 	}
 
 }
